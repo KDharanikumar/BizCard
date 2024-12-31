@@ -13,7 +13,6 @@ import re
 from PIL import Image
 from collections import OrderedDict
 
-
 # SETTING PAGE CONFIGURATIONS
 icon = Image.open("icon.png")
 st.set_page_config(page_title= "BizCardX: Extracting Business Card Data with OCR",
